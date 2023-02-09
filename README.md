@@ -75,4 +75,4 @@ Hi, [Sunny!](https://www.linkedin.com/in/sunnyhere65/) here, a passionate self-t
 ### Show some ❤️ by starring some of the repositories!
 </div>
 
-![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=sunny)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=sunny&countColor=%23697689)](https://visitorbadge.io/status?path=sunny)
