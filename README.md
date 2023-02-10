@@ -11,7 +11,7 @@ Hi, [Sunny!](https://www.linkedin.com/in/sunnyhere65/) here, a passionate self-t
   
 **<img src="https://user-images.githubusercontent.com/124802875/217818395-492d5986-f440-473a-bd1e-211414037956.gif" height="20px"> About Me:**
 
-- 👨🏽‍💻 I’m currently doing my Bachelor in "Computer Science and Engineering";
+- 👨🏽‍💻 I’m currently doing my Bachelors in "Computer Science and Engineering";
 - 🌱 I’m currently learning Data Science; 
 - 📺 I watch anime in my free time;
 - 💬 Tell me about anything, I am happy to hear;
